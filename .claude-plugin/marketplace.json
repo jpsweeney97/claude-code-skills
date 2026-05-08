@@ -1,0 +1,15 @@
+{
+  "name": "jpsweeney97-skills",
+  "description": "JP Sweeney's curated Claude Code skills",
+  "owner": {
+    "name": "JP Sweeney",
+    "url": "https://github.com/jpsweeney97"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-skills",
+      "source": "./",
+      "description": "A curated collection of Claude Code skills for rigorous review, adversarial critique, and grounded documentation."
+    }
+  ]
+}
