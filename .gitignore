@@ -11,3 +11,8 @@ evals/
 *-workspace/
 iteration-*/
 *.local.md
+
+# Working artifacts (design specs, implementation plans, session notes).
+# Public marketplace consumers don't need these; they belong in the working
+# tree as scratch space, not in canonical history.
+docs/
