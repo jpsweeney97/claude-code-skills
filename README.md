@@ -1,6 +1,6 @@
 # claude-code-skills
 
-A curated collection of [Claude Code](https://code.claude.com) skills focused on rigorous review, decisions, and craft. Each skill is a self-contained instruction document that Claude loads on demand and follows like an expert co-worker would. Everything here is also installable via the Claude Code plugin marketplace.
+A curated collection of [Claude Code](https://code.claude.com) skills focused on rigorous review, decisions, and craft. Everything here is also installable via the Claude Code plugin marketplace.
 
 ## Namespacing
 
@@ -21,7 +21,7 @@ This guarantees that names from this plugin can never collide with skills from o
 | Skill | Purpose |
 |---|---|
 | [`scrutinize`](skills/scrutinize/SKILL.md) | General-purpose adversarial pass — adapts to plans, code, writing, and strategy. |
-| [`system-design-review`](skills/system-design-review/SKILL.md) | Solo architecture review via lens framework with stakes calibration. |
+| [`system-design-review`](skills/system-design-review/SKILL.md) | Architecture review via lens framework with stakes calibration. |
 | [`git-hygiene`](skills/git-hygiene/SKILL.md) | Lane-based repo cleanup for cluttered git state and stale branches. |
 | [`next-steps`](skills/next-steps/SKILL.md) | Strategic action planning with dependency mapping. |
 | [`making-recommendations`](skills/making-recommendations/SKILL.md) | Decision framework with stakes calibration. |
